@@ -293,19 +293,19 @@ Instructions for Tavily:
  
 Output Format:  
 - **Bugs/Frustrations**:  
-  - Issue: [Detailed description of the problem, e.g., "App crashes when loading the dashboard."]  
+  - Issue: [Detailed description of the problem in 2-3 sentences for each point, e.g., "App crashes when loading the dashboard."]  
   - Source: [Link to the specific post on Reddit/Quora/Stack Overflow]  
  
 - **Positive Feedback**:  
-  - Praise: [Positive aspect of the product, e.g., "Intuitive user interface and great customer support."]  
+  - Praise: [Positive aspect of the product in 2-3 sentences for each point, e.g., "Intuitive user interface and great customer support."]  
   - Source: [Link to the specific post on Reddit/Quora/Stack Overflow]  
  
 - **Feature Requests**:  
-  - Request: [Detailed feature request, e.g., "Allow exporting data to CSV."]  
+  - Request: [Detailed feature request in 2-3 sentences for each point, e.g., "Allow exporting data to CSV."]  
   - Source: [Link to the specific post on Reddit/Quora/Stack Overflow]  
  
 - **Recurring Patterns**:  
-  - Theme: [Summary of common trends or sentiments, e.g., "Users are generally happy with the pricing model but complain about the lack of integrations."]  
+  - Theme: [Summary of common trends or sentiments in 2-3 sentences for each point, e.g., "Users are generally happy with the pricing model but complain about the lack of integrations."]  
   - Insights: [Provide insights or context from the discussions.]
   
 End this report with and go to next report:    
