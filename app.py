@@ -217,8 +217,10 @@ def main():
         user_query = st.text_input("Enter Product Name:")
         if st.button("Get Report"):
             if user_query:
-                st.session_state.report1 = None
-                st.session_state.report2 = None
+                if 'report1' in st.session_state:
+                    st.session_state.report1 = None
+                if 'report2' in st.session_state:
+                    st.session_state.report2 = None
                 with st.spinner("Collecting information..."):
                     query1 = f"""
 Generate all content under each heading marked in '##'.
